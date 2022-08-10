@@ -1,4 +1,4 @@
-## Olá eu sou a Alexsandro Martins, estudando de engenharia de software!
+## Olá eu sou a Alexsandro Martins, estudante de engenharia de software!
 <div align="center">
   <a href="https://github.com/Alexsandro-Martinz/">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Alexsandro-Martinz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
