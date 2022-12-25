@@ -18,4 +18,4 @@
 <!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=alexsandro-martinz&show_icons=true&locale=en&layout=compact" alt="alexsandro-martinz" /></p>
  -->
  
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexsandro-martinz&layout=compact)](https://github.com/alexsandro-martinz/github-readme-stats)
