@@ -1,7 +1,7 @@
-<h1 align="center">Oi 👋, Eu sou a Back-end Developer</h1>
-<h3 align="center">Apaixonado por resolver problemas técnicos de programção</h3>
+<h1 align="center">Oi 👋, Eu sou um desenvolvedor Back-end</h1>
+<h3 align="center">Apaixonado por resolver problemas através da programção</h3>
 
-- 🌱 Atualmente estou aprendendo **Python, Django, PostgreSQL**
+- 🌱 Atualmente estou estudando **Python, Django, PostgreSQL**
 
 - 📫 Você me acha através do email **martinz.alexsandro@gmail.com**
 
