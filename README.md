@@ -1,11 +1,11 @@
 <h1 align="center">Oi 👋, Eu sou um desenvolvedor Back-end</h1>
 <h3 align="center">Apaixonado por resolver problemas através da programção</h3>
 
-- 🌱 Atualmente estou estudando **Python, Django, PostgreSQL**
+- 🌱 Atualmente estou estudando **Java, PostgreSQL**
 
 - 📫 Você me acha através do email **martinz.alexsandro@gmail.com**
 
-- 🧑‍🎓 Estudo atuamente na Univesidade Estácio - 1º período do bacharelado em engenharia de software (graduação em julho de 2026)
+- 🧑‍🎓 Estudo atuamente na Univesidade Estácio - 2º período do bacharelado em engenharia de software (graduação em julho de 2026)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
