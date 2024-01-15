@@ -5,7 +5,7 @@
 
 - 📫 Você me acha através do email **martinz.alexsandro@gmail.com**
 
-- 🧑‍🎓 Estudo atuamente na Univesidade Estácio - 2º período do bacharelado em engenharia de software (graduação em julho de 2026)
+- 🧑‍🎓 Estudo atuamente na Unicarioca - 5º período do bacharelado em engenharia da computação (graduação em dezembro de 2027)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
