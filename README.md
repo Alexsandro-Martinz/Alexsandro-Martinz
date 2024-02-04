@@ -1,7 +1,7 @@
 <h1 align="center">Oi 👋, Eu sou um desenvolvedor Back-end Java</h1>
 <h3 align="center">Apaixonado por resolver problemas através da programção</h3>
 
-- 🌱 Atualmente estou estudando **Java, JSP, Servlet, Toncat, PostgreSQL**
+- 🌱 Atualmente estou estudando **Java, Spring Boot e PostgreSQL**
 
 - 📫 Você me acha através do email **martinz.alexsandro@gmail.com**
 
